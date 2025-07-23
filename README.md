@@ -9,6 +9,3 @@ gcloud functions deploy jig \
   --trigger-http \
   --allow-unauthenticated
 
-# Endpoint
-
-https://us-central1-xbot-2b603.cloudfunctions.net/jig
